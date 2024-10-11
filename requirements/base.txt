@@ -1,0 +1,9 @@
+torch
+huggingface_hub
+transformers
+datasets
+ray[data,train,tune,serve]
+wandb
+typer
+python-dotenv
+omegaconf
